@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**WiseNitsey/WiseNitsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Wisely Yestin Leemanto
 
 Here are some ideas to get you started:
 
